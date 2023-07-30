@@ -1,3 +1,4 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 - 👋 Hi, I’m @ayarema
 - 👀 I’m interested in developing automation tools that help in implementing best automation practices
 - 🌱 I’m currently learning Kotlin, Android Development, Scala, Swift
